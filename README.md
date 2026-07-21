@@ -5,14 +5,15 @@ Tap Homebrew para instalar o **Tesus Browser** — navegador com o agente Aura e
 ## Instalação
 
 ```sh
-brew install --cask andersonflima/tesus/tesus-browser
+brew tap andersonflima/tesus
+brew trust andersonflima/tesus          # taps de terceiros exigem confiança explícita
+brew install --cask tesus-browser
 ```
 
-Ou, em dois passos:
+Em uma linha (após confiar no tap):
 
 ```sh
-brew tap andersonflima/tesus
-brew install --cask tesus-browser
+brew install --cask andersonflima/tesus/tesus-browser
 ```
 
 ## Atualizar
