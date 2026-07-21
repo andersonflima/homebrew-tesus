@@ -9,7 +9,6 @@ cask "tesus-browser" do
 
   # Build v0.1 é só arm64 e não é assinada/notarizada.
   depends_on arch: :arm64
-  depends_on macos: ">= 11"
 
   app "Tesus Browser.app"
 
