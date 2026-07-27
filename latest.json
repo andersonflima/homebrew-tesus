@@ -1,12 +1,12 @@
 {
-  "version": "0.1.97",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.97",
-  "publishedAt": "2026-07-27T07:34:11Z",
+  "version": "0.1.100",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.100",
+  "publishedAt": "2026-07-27T07:40:01Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.97-arm64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/v0.1.97/Tesus-Browser-0.1.97-arm64.dmg",
-      "sha256": "c5f8d777f1eda756498b9c1840084693186fbafa7fa94240e8b4b5499b0199a0"
+      "name": "Tesus-Browser-0.1.100-arm64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/v0.1.100/Tesus-Browser-0.1.100-arm64.dmg",
+      "sha256": "97fc2dbf4e4287bc3fabfe88f0638217756a50e645c91ac93aa92a78ace1ff29"
     }
   }
 }
