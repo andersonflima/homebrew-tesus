@@ -1,12 +1,12 @@
 {
-  "version": "0.1.135",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.135",
-  "publishedAt": "2026-07-28T10:48:54Z",
+  "version": "0.1.136",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.136",
+  "publishedAt": "2026-07-28T11:08:52Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.135-arm64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/v0.1.135/Tesus-Browser-0.1.135-arm64.dmg",
-      "sha256": "915935ba3aa627d9b6d2fa23e66babb7ae4c2739c33c9ad01334022e91258565"
+      "name": "Tesus-Browser-0.1.136-arm64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/v0.1.136/Tesus-Browser-0.1.136-arm64.dmg",
+      "sha256": "1b32a31fda8c25c971318bbd04cdc711026c27c6cd46d542c11a54771b4c2ea1"
     }
   }
 }
