@@ -1,6 +1,6 @@
 cask "tesus-browser" do
-  version "0.1.185"
-  sha256 "e349045f377de260262f20de7c39bb5082ffce53a4449a3b5057a815b324d18e"
+  version "0.1.186"
+  sha256 "3f9c9e69496097019e8cef5907e45b6bed1bef993456910d218b2107eceaeda3"
 
   # Servido pelo release do GitHub (CDN rápido). Espelho: https://tesus.com.br/dist/Tesus-Browser-#{version}-arm64.dmg
   url "https://github.com/andersonflima/homebrew-tesus/releases/download/v#{version}/Tesus-Browser-#{version}-arm64.dmg",
