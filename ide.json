@@ -1,12 +1,12 @@
 {
-  "version": "0.1.7",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/ide-v0.1.7",
-  "publishedAt": "2026-08-02T01:08:31Z",
+  "version": "0.1.8",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/ide-v0.1.8",
+  "publishedAt": "2026-08-02T02:03:14Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-IDE-0.1.7-arm64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.1.7/Tesus-IDE-0.1.7-arm64.dmg",
-      "sha256": "7f6b08f120688d8d9a6ccc3c60c70224561d59cd63cdd64f1edeca65202113b9"
+      "name": "Tesus-IDE-0.1.8-arm64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.1.8/Tesus-IDE-0.1.8-arm64.dmg",
+      "sha256": "23e8a533738f6b0bdc7aae3600eb675fbf2171c3575a17bd08de4d12becdb994"
     }
   }
 }
