@@ -1,24 +1,24 @@
 {
-  "version": "0.2.5",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/ide-v0.2.5",
-  "publishedAt": "2026-08-02T04:38:11Z",
+  "version": "0.2.6",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/ide-v0.2.6",
+  "publishedAt": "2026-08-02T05:01:33Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-IDE-0.2.5-arm64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.5/Tesus-IDE-0.2.5-arm64.dmg",
-      "sha256": "4f51dce70b00338a45443c48a98cea077a9df3df82344dc49e17991122d1aaed"
+      "name": "Tesus-IDE-0.2.6-arm64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.6/Tesus-IDE-0.2.6-arm64.dmg",
+      "sha256": "8517159569f2936bdb60a4bd7c935578825effef5c7b4943f2560c8d6495fb9e"
     },
     "windowsX64": {
-      "name": "Tesus-IDE-0.2.5-setup-x64.exe",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.5/Tesus-IDE-0.2.5-setup-x64.exe"
+      "name": "Tesus-IDE-0.2.6-setup-x64.exe",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.6/Tesus-IDE-0.2.6-setup-x64.exe"
     },
     "linuxX64AppImage": {
-      "name": "Tesus-IDE-0.2.5-x86_64.AppImage",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.5/Tesus-IDE-0.2.5-x86_64.AppImage"
+      "name": "Tesus-IDE-0.2.6-x86_64.AppImage",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.6/Tesus-IDE-0.2.6-x86_64.AppImage"
     },
     "linuxX64Deb": {
-      "name": "Tesus-IDE-0.2.5-amd64.deb",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.5/Tesus-IDE-0.2.5-amd64.deb"
+      "name": "Tesus-IDE-0.2.6-amd64.deb",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v0.2.6/Tesus-IDE-0.2.6-amd64.deb"
     }
   }
 }
