@@ -16,6 +16,18 @@ Em uma linha (após confiar no tap):
 brew install --cask andersonflima/tesus/tesus-browser
 ```
 
+## Tesus Desktop
+
+Quando a primeira release macOS assinada estiver disponível, instale o cliente
+nativo do Tesus com:
+
+```sh
+brew install --cask andersonflima/tesus/tesus-desktop
+```
+
+O cask seleciona automaticamente o instalador Apple Silicon ou Intel e valida
+o SHA-256 correspondente.
+
 ## Atualizar
 
 ```sh
