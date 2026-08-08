@@ -1,7 +1,7 @@
 {
   "version": "0.1.212",
   "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.212",
-  "publishedAt": "2026-08-08T16:47:09Z",
+  "publishedAt": "2026-08-08T16:49:06Z",
   "assets": {
     "macosArm64": {
       "name": "Tesus-Browser-0.1.212-arm64.dmg",
