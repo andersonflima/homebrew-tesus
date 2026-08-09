@@ -4,8 +4,8 @@
   "publishedAt": "2026-08-09T08:12:00Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.237-arm64.dmg",
-      "url": "https://github.com/andersonflima/tesus-aura/releases/download/v0.1.237/Tesus-Browser-0.1.237-arm64.dmg",
+      "name": "Tesus.Browser-0.1.237-arm64.dmg",
+      "url": "https://github.com/andersonflima/tesus-aura/releases/download/v0.1.237/Tesus.Browser-0.1.237-arm64.dmg",
       "sha256": "35225c9a90891292916d479d13c32285531df7aa6755ffea4f7705560f71c197"
     }
   }
