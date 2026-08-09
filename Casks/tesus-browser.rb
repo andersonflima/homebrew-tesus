@@ -1,9 +1,9 @@
 cask "tesus-browser" do
-  version "0.1.236"
-  sha256 "81adc7a25123f2399fc7dca2342f0d1687d14355e880ed9ebb638168502a2b90"
+  version "0.1.238"
+  sha256 "3588e4daac8e394860b78777483c78d7c0f75c241e117538480fadfbb155b764"
 
   # Servido pelo release do GitHub (CDN rápido). Espelho: https://tesus.com.br/dist/Tesus-Browser-#{version}-arm64.dmg
-  url "https://github.com/andersonflima/tesus-aura/releases/download/v#{version}/Tesus.Browser-#{version}-arm64.dmg",
+  url "https://github.com/andersonflima/homebrew-tesus/releases/download/v#{version}/Tesus-Browser-#{version}-arm64.dmg",
       verified: "github.com/andersonflima/homebrew-tesus/"
   name "Tesus Browser"
   desc "Navegador com o agente Aura embutido (Electron)"
