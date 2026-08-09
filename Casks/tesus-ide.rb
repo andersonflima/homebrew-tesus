@@ -1,6 +1,6 @@
 cask "tesus-ide" do
-  version "0.5.11"
-  sha256 "9d0832a019aca06892e8807cf8e5b6363385de2fd5d4c892f52e3c043b193a74"
+  version "0.5.18"
+  sha256 "d9711f642498b55516722187d281f7063fc9301d789563736e73f2076b8c14d4"
 
   url "https://github.com/andersonflima/homebrew-tesus/releases/download/ide-v#{version}/Tesus-IDE-#{version}-arm64.dmg",
       verified: "github.com/andersonflima/homebrew-tesus/"
