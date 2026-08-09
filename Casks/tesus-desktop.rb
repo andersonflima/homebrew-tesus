@@ -1,16 +1,16 @@
 # frozen_string_literal: true
 
 cask "tesus-desktop" do
-  version "0.1.9"
+  version "0.1.21"
 
   on_arm do
-    sha256 "d344421e4242ed3910092c36fd183fd2394ceee430e27ebf7b3745456374b8d2"
+    sha256 "efce11ecf21b459a655b17263d05755614795abc9bf5b965f6eba4e74211e940"
     url "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v#{version}/Tesus-Desktop-#{version}-arm64.dmg",
         verified: "github.com/andersonflima/homebrew-tesus/"
   end
 
   on_intel do
-    sha256 "fbc6b2e467e0040eed6fbbb06e8f4190f59f9117652200ffd0a2878363fdeb2e"
+    sha256 "bfa3424edc8b6e29b1bf361287a64afe1c057e2e5c9440144ca5562e2b8dea63"
     url "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v#{version}/Tesus-Desktop-#{version}-x64.dmg",
         verified: "github.com/andersonflima/homebrew-tesus/"
   end
