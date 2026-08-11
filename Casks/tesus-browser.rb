@@ -4,25 +4,6 @@ cask "tesus-browser" do
 
   # Servido pelo CDN do DigitalOcean Spaces (bucket tesus-space, prefixo dist/browser/).
   # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
-  # Espelho/fallback: GitHub Release do repo homebrew-tesus.
   url "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/#{version}/Tesus-Browser-#{version}-arm64.dmg",
       verified: "tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/"
   name "Tesus Browser"
