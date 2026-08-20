@@ -1,6 +1,6 @@
 cask "tesus-browser" do
-  version "0.1.308"
-  sha256 "8ac9b053761cfb6088601051dd58ffba79ea5664a39b32ebc49faed3612dc623"
+  version "0.1.309"
+  sha256 "dd41bad8289162127688c7c3244c75918a5bc25229bf8d9f36c50aa3dd9fca46"
 
   # Servido pelo CDN do DigitalOcean Spaces (bucket tesus-space, prefixo dist/browser/).
   # Espelho/fallback: GitHub Release do repo homebrew-tesus.
