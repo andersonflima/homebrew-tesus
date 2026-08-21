@@ -1,18 +1,18 @@
 # frozen_string_literal: true
 
 cask "tesus-desktop" do
-  version "0.1.26"
+  version "0.1.27"
 
   # URL primaria = CDN do DigitalOcean Spaces (bucket tesus-space, prefixo dist/desktop/).
   # Espelho/fallback: GitHub Release do repo homebrew-tesus. O sha256 e o mesmo em ambos.
   on_arm do
-    sha256 "27d43450e3d472bd2cff57720fd93cfb6ad4861adcd3bdc06fe88156e67ad22b"
+    sha256 "4ffbe054e3160b6319908cec06398f26f925055e56d1da96f0ea5f99f3306dc4"
     url "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/desktop/#{version}/Tesus-Desktop-#{version}-arm64.dmg",
         verified: "tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/desktop/"
   end
 
   on_intel do
-    sha256 "a707848cd3449ae0eb29aa419dbc628ff481d7713bf5a1de91cc901a4994e1b4"
+    sha256 "9c5bc67ff8223bdc3afe580f88b0e28c2af1c559e97999bbb33be7a291d1f2a6"
     url "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/desktop/#{version}/Tesus-Desktop-#{version}-x64.dmg",
         verified: "tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/desktop/"
   end

@@ -1,17 +1,17 @@
 {
-  "version": "0.1.26",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/desktop-v0.1.26",
-  "publishedAt": "2026-08-21T02:35:18Z",
+  "version": "0.1.27",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/desktop-v0.1.27",
+  "publishedAt": "2026-08-21T04:15:47Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Desktop-0.1.26-arm64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v0.1.26/Tesus-Desktop-0.1.26-arm64.dmg",
-      "sha256": "27d43450e3d472bd2cff57720fd93cfb6ad4861adcd3bdc06fe88156e67ad22b"
+      "name": "Tesus-Desktop-0.1.27-arm64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v0.1.27/Tesus-Desktop-0.1.27-arm64.dmg",
+      "sha256": "4ffbe054e3160b6319908cec06398f26f925055e56d1da96f0ea5f99f3306dc4"
     },
     "macosX64": {
-      "name": "Tesus-Desktop-0.1.26-x64.dmg",
-      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v0.1.26/Tesus-Desktop-0.1.26-x64.dmg",
-      "sha256": "a707848cd3449ae0eb29aa419dbc628ff481d7713bf5a1de91cc901a4994e1b4"
+      "name": "Tesus-Desktop-0.1.27-x64.dmg",
+      "url": "https://github.com/andersonflima/homebrew-tesus/releases/download/desktop-v0.1.27/Tesus-Desktop-0.1.27-x64.dmg",
+      "sha256": "9c5bc67ff8223bdc3afe580f88b0e28c2af1c559e97999bbb33be7a291d1f2a6"
     }
   }
 }
