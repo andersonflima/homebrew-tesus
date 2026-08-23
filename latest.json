@@ -1,12 +1,32 @@
 {
-  "version": "0.1.331",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.331",
-  "publishedAt": "2026-08-22T23:33:08Z",
+  "version": "0.1.332",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.332",
+  "publishedAt": "2026-08-23T02:40:44Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.331-arm64.dmg",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.331/Tesus-Browser-0.1.331-arm64.dmg",
-      "sha256": "627480c4c8fe2c1f174fa8075fb5719da08746643b921c052ca36982c2240961"
+      "name": "Tesus-Browser-0.1.332-arm64.dmg",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.332/Tesus-Browser-0.1.332-arm64.dmg",
+      "sha256": "e998153293b408c4c2f8f1b1e135cc810d6b6c32fa7269dd9813e33837dd1b50"
+    },
+    "macosX64": {
+      "name": "Tesus-Browser-0.1.332-x64.dmg",
+      "sha256": "8f3ad1b2b4ac00f3dc8678c18c9024ac1a19dce2a784d420374149ed6f7980ce",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.332/Tesus-Browser-0.1.332-x64.dmg"
+    },
+    "windowsX64": {
+      "name": "Tesus-Browser-0.1.332-setup-x64.exe",
+      "sha256": "f894ef0da4bb342998f0762fd5a30252836b87c4d629cf1e99713049712d2681",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.332/Tesus-Browser-0.1.332-setup-x64.exe"
+    },
+    "linuxX64AppImage": {
+      "name": "Tesus-Browser-0.1.332-x64.AppImage",
+      "sha256": "d493c2332dd4159c5ad184dfec801c1e1d2b6e003c503d4794108f088d6b059e",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.332/Tesus-Browser-0.1.332-x64.AppImage"
+    },
+    "linuxX64Deb": {
+      "name": "Tesus-Browser-0.1.332-amd64.deb",
+      "sha256": "eae759b698ca7fe210ffd3d8cec87421be2b804bfb322417ffef2165ab887ba0",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.332/Tesus-Browser-0.1.332-amd64.deb"
     }
   }
 }
