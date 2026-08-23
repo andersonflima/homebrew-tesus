@@ -1,32 +1,32 @@
 {
-  "version": "0.1.337",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.337",
-  "publishedAt": "2026-08-23T08:40:22Z",
+  "version": "0.1.338",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.338",
+  "publishedAt": "2026-08-23T15:04:50Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.337-arm64.dmg",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.337/Tesus-Browser-0.1.337-arm64.dmg",
-      "sha256": "bec31d7adaf4b029a3e545fc2352e33aac8488aeedf30729b2f4b29a11eaccef"
+      "name": "Tesus-Browser-0.1.338-arm64.dmg",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.338/Tesus-Browser-0.1.338-arm64.dmg",
+      "sha256": "60be32f7b822e3d7042ad284bdc2c6a204dc34d8871e3e99bddc6f0ea516e42f"
     },
     "macosX64": {
-      "name": "Tesus-Browser-0.1.337-x64.dmg",
-      "sha256": "70c0fcb4c038dce35d2a55ae7e049aa2c0b46ecc4e4b00217a1fd7f9d9feb173",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.337/Tesus-Browser-0.1.337-x64.dmg"
+      "name": "Tesus-Browser-0.1.338-x64.dmg",
+      "sha256": "6e0d5d38c2ead5ed0aafe90145741de30773e2450f767dc926c156e99b674adc",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.338/Tesus-Browser-0.1.338-x64.dmg"
     },
     "windowsX64": {
-      "name": "Tesus-Browser-0.1.337-setup-x64.exe",
-      "sha256": "0e2b167a32ac5360cfcf825fb7e59b4033a66ef021b69126fef3cc0e28a2740c",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.337/Tesus-Browser-0.1.337-setup-x64.exe"
+      "name": "Tesus-Browser-0.1.338-setup-x64.exe",
+      "sha256": "ab09d7787c6c9d88f60b03e9ea26504045782069566661e656798a76873ebc3b",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.338/Tesus-Browser-0.1.338-setup-x64.exe"
     },
     "linuxX64AppImage": {
-      "name": "Tesus-Browser-0.1.337-x64.AppImage",
-      "sha256": "3805881274da5755ecaefa2a7ed51c6cbbca734e8d12ac8bff990551de352173",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.337/Tesus-Browser-0.1.337-x64.AppImage"
+      "name": "Tesus-Browser-0.1.338-x64.AppImage",
+      "sha256": "473332ccec9d66a8626522f4f938681743e4246db856a190acf73115692da5ae",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.338/Tesus-Browser-0.1.338-x64.AppImage"
     },
     "linuxX64Deb": {
-      "name": "Tesus-Browser-0.1.337-amd64.deb",
-      "sha256": "569049db278aa9dfe50ec883e751d0fbea5c3761606e21666cb4e0520cc4d3e2",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.337/Tesus-Browser-0.1.337-amd64.deb"
+      "name": "Tesus-Browser-0.1.338-amd64.deb",
+      "sha256": "6f3a6d5c51736408d25762261b72fd2282e5eb9205ad004d3ac59c89f051bedc",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.338/Tesus-Browser-0.1.338-amd64.deb"
     }
   }
 }
