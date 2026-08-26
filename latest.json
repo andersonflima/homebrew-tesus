@@ -1,17 +1,17 @@
 {
-  "version": "0.1.351",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.351",
-  "publishedAt": "2026-08-26T17:51:27Z",
+  "version": "0.1.352",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.352",
+  "publishedAt": "2026-08-26T18:40:36Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.351-arm64.dmg",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.351/Tesus-Browser-0.1.351-arm64.dmg",
-      "sha256": "d4788d3f57bb8427469f786ca308f8b89b3202c9fc6695a451da640b17c6a797"
+      "name": "Tesus-Browser-0.1.352-arm64.dmg",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.352/Tesus-Browser-0.1.352-arm64.dmg",
+      "sha256": "dddf668ab8931e293fd90b2fe749480cd382baf01a19f5fdd3a72d917e39eadd"
     },
     "macosX64": {
-      "name": "Tesus-Browser-0.1.351-x64.dmg",
-      "sha256": "d15fefb1eb7e5e7a7a8527fed0c68eaf1bbba817163a579b71303754d94259e0",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.351/Tesus-Browser-0.1.351-x64.dmg"
+      "name": "Tesus-Browser-0.1.352-x64.dmg",
+      "sha256": "cb261129b6e3c0f2f48b563435ded64af90ec4fa6141e31ed36646d33a3f24f0",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.352/Tesus-Browser-0.1.352-x64.dmg"
     }
   }
 }
