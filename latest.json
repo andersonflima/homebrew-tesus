@@ -1,17 +1,17 @@
 {
-  "version": "0.1.429",
-  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.429",
-  "publishedAt": "2026-09-18T14:28:13Z",
+  "version": "0.1.430",
+  "releaseUrl": "https://github.com/andersonflima/homebrew-tesus/releases/tag/v0.1.430",
+  "publishedAt": "2026-09-18T14:41:59Z",
   "assets": {
     "macosArm64": {
-      "name": "Tesus-Browser-0.1.429-arm64.dmg",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.429/Tesus-Browser-0.1.429-arm64.dmg",
-      "sha256": "6dfd89bd3cb2bbf94e5aa17d00964f460e7f44211283bcd5daace1a2e18604c6"
+      "name": "Tesus-Browser-0.1.430-arm64.dmg",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.430/Tesus-Browser-0.1.430-arm64.dmg",
+      "sha256": "1039a16d03887373866780c11b517fbd5ffe57839ad2341ba497aa1e7e625733"
     },
     "macosX64": {
-      "name": "Tesus-Browser-0.1.429-x64.dmg",
-      "sha256": "e7525e1af2b703816a86325032b61a1850378492875cfcebe13957d5c7af768e",
-      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.429/Tesus-Browser-0.1.429-x64.dmg"
+      "name": "Tesus-Browser-0.1.430-x64.dmg",
+      "sha256": "e4b72afaa8917aca74754ee629333d117ad176e064439983428b37997dfd3df6",
+      "url": "https://tesus-space.nyc3.cdn.digitaloceanspaces.com/dist/browser/0.1.430/Tesus-Browser-0.1.430-x64.dmg"
     }
   }
 }
